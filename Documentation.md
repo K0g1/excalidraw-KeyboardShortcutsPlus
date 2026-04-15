@@ -4,7 +4,7 @@ KeyboardShortcutsPlus is an advanced scripting extension for the Obsidian Excali
 
 ## Installation Steps
 
-1.  **Download Script **:
+1.  **Download Script ** :
     *   Download the file `KeyboardShortcutsPlus.md` into the Excalidraw folder of your Obsidian vault 
     *   Paste the provided script code into this file.
 2.  **Configure as a Startup Script**:
