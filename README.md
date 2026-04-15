@@ -1,10 +1,6 @@
 
 A high-performance keyboard shortcut extension for Obsidian Excalidraw. Supercharge your workflow with mouse-free diagramming, 8-axis diagonal movement, definitive object sizing, and instant smart-styling.
 
----
-
-### README.md
-
 # KeyboardShortcutsPlus for Obsidian Excalidraw
 
 **KeyboardShortcutsPlus** is an advanced scripting extension that transforms the Obsidian Excalidraw plugin into a keyboard-first diagramming engine. 
