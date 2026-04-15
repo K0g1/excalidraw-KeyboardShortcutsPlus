@@ -23,4 +23,4 @@ The default Excalidraw interface is highly mouse-dependent. Resizing an object s
 Fully compatible with both macOS and Windows environments. The script maps directly to physical keyboard hardware codes, ensuring your shortcuts remain consistent regardless of your operating system's software language or regional layout.
 
 ## Installation
-Please refer to the [Documentation]('Documentation.md') for step-by-step instructions on adding this to your Obsidian Vault's Excalidraw Automate startup scripts.
+Please refer to the [Documentation]('[Documentation.md'](https://github.com/K0g1/excalidraw-KeyboardShortcutsPlus/blob/main/Documentation.md)) for step-by-step instructions on adding this to your Obsidian Vault's Excalidraw Automate startup scripts.
